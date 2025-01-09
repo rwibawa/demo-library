@@ -1,4 +1,4 @@
-package com.navisow.api.demoLibrary;
+package io.github.rwibawa.api.demoLibrary;
 
 public class StringPadderFactory {
     private StringPadderFactory() {

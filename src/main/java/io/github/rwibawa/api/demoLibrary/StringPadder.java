@@ -1,4 +1,4 @@
-package com.navisow.api.demoLibrary;
+package io.github.rwibawa.api.demoLibrary;
 
 /**
  * 4
